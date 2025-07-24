@@ -1,0 +1,2 @@
+# Deforestation_Fire_Classification_Week2
+AICTE_Internship_week2
