@@ -119,15 +119,4 @@ Trained multiple models using:
 
 ---
 
-## 🗃️ Directory Structure
 
-```bash
-.
-├── data/
-│   ├── modis_2021_India.csv
-│   ├── modis_2022_India.csv
-│   └── modis_2023_India.csv
-├── Classification_of_Fire_Types_in_India_Using_MODIS_Satellite_Data.ipynb
-├── extracted_code_from_notebook.py
-├── README.md
-└── requirements.txt
